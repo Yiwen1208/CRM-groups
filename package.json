@@ -1,0 +1,16 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "node-xlsx": "^0.21.0"
+  }
+}
